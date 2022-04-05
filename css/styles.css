@@ -1,0 +1,103 @@
+.color 
+{
+    color: #2574A7;
+}
+.colord
+{
+    background-color: #D0E4F5;
+}
+.colort
+{
+    background-color: #ffffff;
+}
+.radiou
+{
+    border-radius: 40px 25px 0px 30px;
+}
+.radiod
+{
+    border-radius: 25px 40px 30px 0px;
+}
+.radiot
+{
+    border-radius: 40px 25px 0px 30px;
+}
+.radioc
+{
+    border-radius: 25px 40px 30px 0px;
+}
+.sep
+{
+    margin: 1em 0em 0em 13em;
+}
+.tamb
+{
+    padding: 1px 2px;
+}
+.sep2
+{
+    margin: 1em 0em 0em 14em;
+}
+.btnn1
+{
+    border: 4px solid #1c6ea4;
+    background-color:#c3e4ff ;
+}
+.btnn2
+{
+    border: 4px dotted #1C6EA4;
+}
+.btnn3
+{
+    border: 4px dashed #1C6EA4;
+}
+.btnn4
+{
+    border: 4px double #1C6EA4;
+}
+.btnn5
+{
+    border: 4px groove #1C6EA4;
+}
+.btnn6
+{
+    border: 4px ridge #1C6EA4;
+}
+.btnn7
+{
+    border: 4px inset #1C6EA4;
+}
+.btnn8
+{
+    border: 4px outset #1C6EA4;
+}
+.btnn9
+{
+    border: 4px hidden #1C6EA4
+}
+.btnn10
+{
+    border: 4px none #1C6EA4;
+}
+.btnn11
+{
+    border-top: 4px solid #1C6EA4;
+}
+.btnn12
+{
+    border-right: 4px solid #1C6EA4;
+}
+.btnn13
+{
+    border-bottom: 4px solid #1C6EA4;
+}
+.btnn14
+{
+    border-left: 4px solid #1C6EA4;
+}
+.btnn15
+{
+    border: 4px solid #1c6ea4;
+    background-color:#ffffff ;
+}
+
